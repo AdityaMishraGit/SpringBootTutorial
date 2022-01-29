@@ -16,6 +16,8 @@ public class Application {
 		BinarySearchImpl binarySearchImpl=applicationContext.getBean(BinarySearchImpl.class);
 		
 		System.out.println(binarySearchImpl.binarySearch(new int[]{1,2,3,4,5,6}, 3));	
+		
+		System.out.println(binarySearchImpl.hashCode());
 	}
 
 }
