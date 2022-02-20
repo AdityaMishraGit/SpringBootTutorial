@@ -1,4 +1,4 @@
-package com.springBootApplication.springBootApplication;
+package com.springBootApplication.springBootApplication.basic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;

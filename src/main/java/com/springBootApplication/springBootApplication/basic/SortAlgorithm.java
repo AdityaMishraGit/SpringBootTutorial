@@ -1,4 +1,4 @@
-package com.springBootApplication.springBootApplication;
+package com.springBootApplication.springBootApplication.basic;
 
 public interface SortAlgorithm {
 	
